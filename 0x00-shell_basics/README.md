@@ -5,3 +5,5 @@
 - [ x ] 2-bring_me_home go to home directory
 
 - [ x ] 3-listfiles list long form 
+
+- [ x ] 4-listmorefiles show hidden files
