@@ -7,3 +7,7 @@
 - [ x ] 3-listfiles list long form 
 
 - [ x ] 4-listmorefiles show hidden files
+
+- [ x ] 5-listfilesdigitonly show long form with number forms added
+
+- [ x ] 5-listfilesdigitonly show long for with group ID and user Id presented numerically
