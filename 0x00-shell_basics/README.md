@@ -11,3 +11,5 @@
 - [ x ] 5-listfilesdigitonly show long form with number forms added
 
 - [ x ] 5-listfilesdigitonly show long for with group ID and user Id presented numerically
+
+- [ x ] 6-firstdirectory create directory in tmp folder which is found in root directory
