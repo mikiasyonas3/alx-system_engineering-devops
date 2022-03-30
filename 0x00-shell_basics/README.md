@@ -3,3 +3,5 @@
 - [ x ] 1-listit list the contents of a directory
 
 - [ x ] 2-bring_me_home go to home directory
+
+- [ x ] 3-listfiles list long form 
