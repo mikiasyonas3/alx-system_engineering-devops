@@ -1,0 +1,1 @@
+Shell navigation and a little bit of bash scripting
